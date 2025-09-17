@@ -1,7 +1,7 @@
 # Complete Q&A Log: Learning Claude-Flow
 
 ## Question 1: Basic Understanding
-**Q:** "really i do not understand you. ultrathink and guide me. learn directory .claude then teach me. how to use this claude-flow, why and when must use SPARC, Hive-mind or other. how to run claude-flow? do i need just start here with you? or do i need run in another terminal any start or spawn?? I really dummy in this your goal to help me figure out."
+**Q:** "Really, I do not understand you. Ultra-think and guide me. Learn directory .claude then teach me. How to use this Claude-Flow, why and when must I use SPARC, Hive-mind or other? How to run Claude-Flow? Do I need to just start here with you? Or do I need to run in another terminal any start or spawn? I'm really a dummy at this. Your goal is to help me figure it out."
 
 **A:** Claude-Flow is a smart helper system that works WITH me (Claude) in this chat. You DON'T need to run anything in another terminal - everything happens right here. Claude-Flow is already installed and ready. You just tell me what you want to build, and I automatically use Claude-Flow when needed.
 
@@ -13,7 +13,7 @@
 ---
 
 ## Question 2: Advanced Features
-**Q:** "how claude-flow use memory, learning, DAA?"
+**Q:** "How does Claude-Flow use memory, learning, and DAA?"
 
 **A:**
 - **Memory**: Persistent storage across sessions - like a shared notebook all agents can read/write
@@ -29,7 +29,7 @@
 ---
 
 ## Question 3: Teaching New Skills
-**Q:** "then how to ask you to teach Claude-flow learn new e2e ai testing framework? what is a path to learning? how to write prompt for you?"
+**Q:** "Then how do I ask you to teach Claude-Flow to learn a new E2E AI testing framework? What is the path to learning? How do I write a prompt for you?"
 
 **A:** The learning path has 4 phases:
 
@@ -52,7 +52,7 @@
 ---
 
 ## Question 4: Documentation Request
-**Q:** "save these learning to a tutorial directory, my developers will not ask you it again about how to use claude-flow. save all my questions about claude-flow asked you."
+**Q:** "Save this learning to a tutorial directory, so my developers won't need to ask you again about how to use Claude-Flow. Save all my questions about Claude-Flow that I asked you."
 
 **A:** Created comprehensive tutorial directory at `/tutorial/claude-flow/` with:
 - `01-understanding-claude-flow.md` - Basics and overview

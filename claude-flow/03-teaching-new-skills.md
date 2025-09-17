@@ -1,7 +1,7 @@
 # Teaching Claude-Flow New Skills: E2E AI Testing Framework
 
 ## Your Original Question
-> "then how to ask you to teach Claude-flow learn new e2e ai testing framework? what is a path to learning? how to write prompt for you?"
+> "Then how do I ask you to teach Claude-Flow to learn a new E2E AI testing framework? What is the path to learning? How do I write a prompt for you?"
 
 ## Complete Answer: The Learning Path
 

@@ -1,7 +1,7 @@
 # Understanding Claude-Flow - Complete Guide
 
 ## Your Original Question
-> "really i do not understand you. ultrathink and guide me. learn directory .claude then teach me. how to use this claude-flow, why and when must use SPARC, Hive-mind or other. how to run claude-flow? do i need just start here with you? or do i need run in another terminal any start or spawn?? I really dummy in this your goal to help me figure out."
+> "Really, I do not understand you. Ultra-think and guide me. Learn directory .claude then teach me. How to use this Claude-Flow, why and when must I use SPARC, Hive-mind or other? How to run Claude-Flow? Do I need to just start here with you? Or do I need to run in another terminal any start or spawn? I'm really a dummy at this. Your goal is to help me figure it out."
 
 ## The Answer
 

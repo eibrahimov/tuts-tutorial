@@ -1,7 +1,7 @@
 # Claude-Flow Advanced Features: Memory, Learning, and DAA
 
 ## Your Original Question
-> "how claude-flow use memory, learning, DAA?"
+> "How does Claude-Flow use memory, learning, and DAA?"
 
 ## Complete Answer
 
