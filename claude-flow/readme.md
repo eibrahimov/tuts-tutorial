@@ -16,9 +16,9 @@
 
 | Resource | Description | Time |
 |----------|-------------|------|
-| [**Ultimate Cheatsheet**](./ultimate-cheatsheet.md) | Everything on one page - print this! | 5 min |
-| [**Quick Reference**](./quick-reference.md) | One-page command summary | 5 min |
-| [**Understanding Claude-Flow**](./01-understanding-claude-flow.md) | Core concepts explained | 15 min |
+| [Ultimate Cheatsheet](./ultimate-cheatsheet.md) | Everything on one page - print this! | 5 min |
+| [Quick Reference](./quick-reference.md) | One-page command summary | 5 min |
+| [Understanding Claude-Flow](./01-understanding-claude-flow.md) | Core concepts explained | 15 min |
 
 ### First Commands
 
@@ -36,30 +36,27 @@ npx claude-flow@alpha agent spawn coder
 ## Learning Paths
 
 ### 🎓 For CTOs & Tech Leads
+*Time Required: 30 minutes*
 
-**Time Required:** 30 minutes
-
-1. [**Executive Overview**](./00-cto-executive-overview.md) - ROI, metrics, strategic value
-2. [**Quick Reference**](./quick-reference.md) - Essential commands
-3. [**Team Collaboration**](./08-team-collaboration.md) - Team coordination strategies
+1. [Executive Overview](./00-cto-executive-overview.md) - ROI, metrics, strategic value
+2. [Quick Reference](./quick-reference.md) - Essential commands
+3. [Team Collaboration](./08-team-collaboration.md) - Team coordination strategies
 
 ### 👨‍💻 For Senior Developers
+*Time Required: 45 minutes*
 
-**Time Required:** 45 minutes
-
-1. [**Developer Onboarding**](./04-developer-onboarding.md) - Advanced path
-2. [**Prompt Engineering**](./11-prompt-engineering.md) - Advanced techniques
-3. [**Performance Optimization**](./09-performance-optimization.md) - Speed improvements
-4. [**GitHub Integration**](./12-github-integration.md) - Workflow automation
+1. [Developer Onboarding](./04-developer-onboarding.md) - Advanced path
+2. [Prompt Engineering](./11-prompt-engineering.md) - Advanced techniques
+3. [Performance Optimization](./09-performance-optimization.md) - Speed improvements
+4. [GitHub Integration](./12-github-integration.md) - Workflow automation
 
 ### 🚀 For Junior Developers
+*Time Required: 1 hour*
 
-**Time Required:** 1 hour
-
-1. [**Understanding Basics**](./01-understanding-claude-flow.md) - Foundation concepts
-2. [**Developer Onboarding**](./04-developer-onboarding.md) - Beginner path
-3. [**Real World Examples**](./05-real-world-examples.md) - Practical examples
-4. [**Ultimate Cheatsheet**](./ultimate-cheatsheet.md) - Keep handy!
+1. [Understanding Basics](./01-understanding-claude-flow.md) - Foundation concepts
+2. [Developer Onboarding](./04-developer-onboarding.md) - Beginner path
+3. [Real World Examples](./05-real-world-examples.md) - Practical examples
+4. [Ultimate Cheatsheet](./ultimate-cheatsheet.md) - Keep handy!
 
 ## Complete Documentation
 
