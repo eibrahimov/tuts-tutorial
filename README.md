@@ -1,18 +1,18 @@
 # 🚀 Claude-Flow Alpha Testing & Learning Hub
 
-**A community-driven tutorial collection created with Claude to help teams and individuals quickly bootstrap Claude-Flow Alpha testing and adoption.**
+A community-driven tutorial collection created with Claude to help teams and individuals quickly bootstrap Claude-Flow Alpha testing and adoption.
 
 > ⚠️ **Note**: This is NOT the official Claude-Flow repository. This is a practical learning resource created to help teams understand and implement Claude-Flow Alpha in real-world scenarios.
 
 ## 🎯 What Is This Repository?
 
-This repository was created collaboratively with Claude to solve a real problem: **Claude-Flow Alpha is powerful but can be hard to understand initially**. These tutorials provide:
+This repository was created collaboratively with Claude to solve a real problem: Claude-Flow Alpha is powerful but can be hard to understand initially. These tutorials provide:
 
-- 🏃 **Quick Bootstrap Guides** - Get your team productive in hours, not days
-- 💡 **Real Examples** - Actual use cases from team development
-- 🧑‍🤝‍🧑 **Team Integration** - How to use Claude-Flow in collaborative development
-- 📚 **Learning Shortcuts** - Skip the confusion, learn what matters
-- 🔧 **Practical Tips** - Things the official docs don't tell you
+- 🏃 Quick Bootstrap Guides - Get your team productive in hours, not days
+- 💡 Real Examples - Actual use cases from team development
+- 🧑‍🤝‍🧑 Team Integration - How to use Claude-Flow in collaborative development
+- 📚 Learning Shortcuts - Skip the confusion, learn what matters
+- 🔧 Practical Tips - Things the official docs don't tell you
 
 ## 🚦 Quick Start for Teams
 
@@ -43,24 +43,24 @@ npx claude-flow@alpha agent spawn tester
 ## 📚 Tutorial Roadmap for Fast Learning
 
 ### 🟢 Start Here (Essential Reading)
-1. [**CTO Executive Overview**](./claude-flow/00-cto-executive-overview.md) - Understand the value proposition in 5 minutes
-2. [**Understanding Claude-Flow**](./claude-flow/01-understanding-claude-flow.md) - Core concepts simplified
-3. [**Quick Reference**](./claude-flow/quick-reference.md) - Commands you'll actually use
+1. [CTO Executive Overview](./claude-flow/00-cto-executive-overview.md) - Understand the value proposition in 5 minutes
+2. [Understanding Claude-Flow](./claude-flow/01-understanding-claude-flow.md) - Core concepts simplified
+3. [Quick Reference](./claude-flow/quick-reference.md) - Commands you'll actually use
 
 ### 🔵 For Team Leaders
-- [**Developer Onboarding**](./claude-flow/04-developer-onboarding.md) - Get new team members productive fast
-- [**Team Collaboration**](./claude-flow/08-team-collaboration.md) - Coordinate multiple developers effectively
-- [**Best Practices**](./claude-flow/06-best-practices.md) - Avoid common pitfalls
+- [Developer Onboarding](./claude-flow/04-developer-onboarding.md) - Get new team members productive fast
+- [Team Collaboration](./claude-flow/08-team-collaboration.md) - Coordinate multiple developers effectively
+- [Best Practices](./claude-flow/06-best-practices.md) - Avoid common pitfalls
 
 ### 🟡 For Developers
-- [**Real World Examples**](./claude-flow/05-real-world-examples.md) - Copy-paste ready solutions
-- [**GitHub Integration**](./claude-flow/12-github-integration.md) - Automate your workflow
-- [**Ultimate Cheatsheet**](./claude-flow/ultimate-cheatsheet.md) - All commands in one place
+- [Real World Examples](./claude-flow/05-real-world-examples.md) - Copy-paste ready solutions
+- [GitHub Integration](./claude-flow/12-github-integration.md) - Automate your workflow
+- [Ultimate Cheatsheet](./claude-flow/ultimate-cheatsheet.md) - All commands in one place
 
 ### 🔴 Advanced Usage
-- [**Advanced Features**](./claude-flow/02-advanced-features.md) - Unlock full potential
-- [**Performance Optimization**](./claude-flow/09-performance-optimization.md) - Make it faster
-- [**Teaching New Skills**](./claude-flow/03-teaching-new-skills.md) - Customize for your needs
+- [Advanced Features](./claude-flow/02-advanced-features.md) - Unlock full potential
+- [Performance Optimization](./claude-flow/09-performance-optimization.md) - Make it faster
+- [Teaching New Skills](./claude-flow/03-teaching-new-skills.md) - Customize for your needs
 
 ## 💡 Why We Created This
 
