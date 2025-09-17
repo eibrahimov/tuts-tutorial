@@ -115,7 +115,6 @@ We welcome contributions! Please see our [Team Collaboration Guide](./claude-flo
 
 - **Documentation**: All tutorials in this repository
 - **Issues**: [GitHub Issues](https://github.com/eibrahimov/tuts-tutorial/issues)
-- **Community**: Join our Discord server (link in docs)
 
 ## 📄 License
 
