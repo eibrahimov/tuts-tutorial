@@ -43,23 +43,23 @@ npx claude-flow@alpha agent spawn tester
 ## 📚 Tutorial Roadmap for Fast Learning
 
 ### 🟢 Start Here (Essential Reading)
-1. [**CTO Executive Overview**](./claude-flow/00-CTO-EXECUTIVE-OVERVIEW.md) - Understand the value proposition in 5 minutes
+1. [**CTO Executive Overview**](./claude-flow/00-cto-executive-overview.md) - Understand the value proposition in 5 minutes
 2. [**Understanding Claude-Flow**](./claude-flow/01-understanding-claude-flow.md) - Core concepts simplified
-3. [**Quick Reference**](./claude-flow/QUICK-REFERENCE.md) - Commands you'll actually use
+3. [**Quick Reference**](./claude-flow/quick-reference.md) - Commands you'll actually use
 
 ### 🔵 For Team Leaders
-- [**Developer Onboarding**](./claude-flow/04-DEVELOPER-ONBOARDING.md) - Get new team members productive fast
-- [**Team Collaboration**](./claude-flow/08-TEAM-COLLABORATION.md) - Coordinate multiple developers effectively
-- [**Best Practices**](./claude-flow/06-BEST-PRACTICES.md) - Avoid common pitfalls
+- [**Developer Onboarding**](./claude-flow/04-developer-onboarding.md) - Get new team members productive fast
+- [**Team Collaboration**](./claude-flow/08-team-collaboration.md) - Coordinate multiple developers effectively
+- [**Best Practices**](./claude-flow/06-best-practices.md) - Avoid common pitfalls
 
 ### 🟡 For Developers
-- [**Real World Examples**](./claude-flow/05-REAL-WORLD-EXAMPLES.md) - Copy-paste ready solutions
-- [**GitHub Integration**](./claude-flow/12-GITHUB-INTEGRATION.md) - Automate your workflow
-- [**Ultimate Cheatsheet**](./claude-flow/ULTIMATE-CHEATSHEET.md) - All commands in one place
+- [**Real World Examples**](./claude-flow/05-real-world-examples.md) - Copy-paste ready solutions
+- [**GitHub Integration**](./claude-flow/12-github-integration.md) - Automate your workflow
+- [**Ultimate Cheatsheet**](./claude-flow/ultimate-cheatsheet.md) - All commands in one place
 
 ### 🔴 Advanced Usage
 - [**Advanced Features**](./claude-flow/02-advanced-features.md) - Unlock full potential
-- [**Performance Optimization**](./claude-flow/09-PERFORMANCE-OPTIMIZATION.md) - Make it faster
+- [**Performance Optimization**](./claude-flow/09-performance-optimization.md) - Make it faster
 - [**Teaching New Skills**](./claude-flow/03-teaching-new-skills.md) - Customize for your needs
 
 ## 💡 Why We Created This
@@ -104,11 +104,11 @@ npx claude-flow@alpha sparc tdd "User authentication feature"
 ## 🔧 Common Issues & Solutions
 
 ### "It's Not Working!"
-- Check [Troubleshooting Guide](./claude-flow/07-TROUBLESHOOTING.md)
+- Check [Troubleshooting Guide](./claude-flow/07-troubleshooting.md)
 - Most issues are permission or setup related
 
 ### "Too Many Tokens!"
-- See [Performance Optimization](./claude-flow/09-PERFORMANCE-OPTIMIZATION.md)
+- See [Performance Optimization](./claude-flow/09-performance-optimization.md)
 - Use hierarchical topology for complex tasks
 
 ### "How Do I...?"
